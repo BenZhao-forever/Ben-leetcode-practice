@@ -1,8 +1,8 @@
-# Ben leetcode practice
+# Ben's leetcode practice
 *****
  This is Ben's leetcode practice
 
-###Map
+##Map
 *****
 leetcodenumber|question|answer|test
 --------------|:------:|:----:|---:
