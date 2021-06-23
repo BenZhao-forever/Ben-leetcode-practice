@@ -2,7 +2,7 @@
 *****
  This is Ben's leetcode practice
 
-##Map
+## Map
 *****
 leetcodenumber|question|answer|test
 --------------|:------:|:----:|---:
