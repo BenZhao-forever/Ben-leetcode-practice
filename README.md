@@ -10,3 +10,4 @@ leetcodenumber|question|answer|test
 [7](https://leetcode.com/problems/reverse-integer/)|[leetcode-7.md](src/question/leetcode-7.md)|[leetcode7.java](src/main/java/leetcode7.java)|[leetcode7Test.java](src/test/java/leetcode7Test.java)
 [9](https://leetcode.com/problems/palindrome-number/)|[leetcode-9.md](src/question/leetcode-9.md)|[leetcode9.java](src/main/java/leetcode9.java)|[leetcode9Test.java](src/test/java/leetcode9Test.java)
 [13](https://leetcode.com/problems/roman-to-integer/)|[leetcode-13.md](src/question/leetcode-13.md)|[leetcode13.java](src/main/java/leetcode13.java)|[leetcode13Test.java](src/test/java/leetcode13Test.java)
+[14](https://leetcode.com/problems/longest-common-prefix/)|[leetcode-14.md](src/question/leetcode-14.md)|[leetcode14.java](src/main/java/leetcode14.java)|[leetcode14Test.java](src/test/java/leetcode14Test.java)
