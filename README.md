@@ -13,3 +13,4 @@ leetcodenumber|question|answer|test
 [14](https://leetcode.com/problems/longest-common-prefix/)|[leetcode-14.md](src/question/leetcode-14.md)|[leetcode14.java](src/main/java/leetcode14.java)|[leetcode14Test.java](src/test/java/leetcode14Test.java)
 [20](https://leetcode.com/problems/valid-parentheses/)|[leetcode-20.md](src/question/leetcode-20.md)|[leetcode20.java](src/main/java/leetcode20.java)|[leetcode20Test.java](src/test/java/leetcode20Test.java)
 [2](https://leetcode.com/problems/add-two-numbers/)|[leetcode-2.md](src/question/leetcode-2.md)|[leetcode2.java](src/main/java/leetcode2.java)|[leetcode2Test.java](src/test/java/leetcode2Test.java)
+[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[leetcode-3.md](src/question/leetcode-3.md)|[leetcode3.java](src/main/java/leetcode3.java)|[leetcode3Test.java](src/test/java/leetcode3Test.java)
