@@ -14,3 +14,4 @@ leetcodenumber|question|answer|test
 [20](https://leetcode.com/problems/valid-parentheses/)|[leetcode-20.md](src/question/leetcode-20.md)|[leetcode20.java](src/main/java/leetcode20.java)|[leetcode20Test.java](src/test/java/leetcode20Test.java)
 [2](https://leetcode.com/problems/add-two-numbers/)|[leetcode-2.md](src/question/leetcode-2.md)|[leetcode2.java](src/main/java/leetcode2.java)|[leetcode2Test.java](src/test/java/leetcode2Test.java)
 [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[leetcode-3.md](src/question/leetcode-3.md)|[leetcode3.java](src/main/java/leetcode3.java)|[leetcode3Test.java](src/test/java/leetcode3Test.java)
+[5](https://leetcode.com/problems/longest-palindromic-substring/)|[leetcode-5.md](src/question/leetcode-5.md)|[leetcode5.java](src/main/java/leetcode5.java)|[leetcode5Test.java](src/test/java/leetcode5Test.java)
