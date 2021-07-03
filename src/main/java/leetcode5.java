@@ -8,13 +8,13 @@ public class leetcode5 {
 
     }
     public static String longestPalindrome(String s) {
-        String answer = new String("");
+        String answer = "";
         if (s.length() == 0) {
             return answer;
         }
         answer = "" + s.charAt(0);
-        int left = 0;
-        int right = 0;
+        int left;
+        int right;
         for (int i = 0; i < s.length() - 1; i++) {
             left = i;
             right = i;
