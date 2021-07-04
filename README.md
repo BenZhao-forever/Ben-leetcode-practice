@@ -16,3 +16,6 @@ leetcodenumber|question|answer|test
 [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[leetcode-3.md](src/question/leetcode-3.md)|[leetcode3.java](src/main/java/leetcode3.java)|[leetcode3Test.java](src/test/java/leetcode3Test.java)
 [5](https://leetcode.com/problems/longest-palindromic-substring/)|[leetcode-5.md](src/question/leetcode-5.md)|[leetcode5.java](src/main/java/leetcode5.java)|[leetcode5Test.java](src/test/java/leetcode5Test.java)
 [645](https://leetcode.com/problems/set-mismatch/)|[leetcode-645.md](src/question/leetcode-645.md)|[leetcode645.java](src/main/java/leetcode645.java)|[leetcode645Test.java](src/test/java/leetcode645Test.java)
+[451](https://leetcode.com/problems/sort-characters-by-frequency/)|[leetcode-451.md](src/question/leetcode-451.md)|[leetcode451.java](src/main/java/leetcode451.java)|[leetcode451Test.java](src/test/java/leetcode451Test.java)
+[781](https://leetcode.com/problems/rabbits-in-forest/)|[leetcode-781.md](src/question/leetcode-781.md)|[leetcode781.java](src/main/java/leetcode781.java)|[leetcode781Test.java](src/test/java/leetcode781Test.java)
+[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[leetcode-82.md](src/question/leetcode-82.md)|[leetcode82.java](src/main/java/leetcode82.java)|[leetcode82Test.java](src/test/java/leetcode82Test.java)

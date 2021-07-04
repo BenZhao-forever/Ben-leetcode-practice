@@ -32,4 +32,17 @@ class ListNode {
         stringBuilder.append(head.val);
         return stringBuilder.toString();
     }
+
+    @Override
+    public String toString() {
+        ListNode temp = this;
+        StringBuilder stringBuilder = new StringBuilder();
+        while (temp.next != null) {
+            stringBuilder.append(temp.val);
+            stringBuilder.append("->");
+            temp = temp.next;
+        }
+        stringBuilder.append(temp.val);
+        return stringBuilder.toString();
+    }
 }

@@ -22,4 +22,11 @@ class ListNodeTest {
         ListNode head = ListNode.create(a);
         System.out.print(ListNode.toString(head));
     }
+
+    @Test
+    void testToString1() {
+        int[] a = {1, 2, 3, 4, 5};
+        ListNode head = ListNode.create(a);
+        System.out.print(head.toString());
+    }
 }

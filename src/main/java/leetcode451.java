@@ -7,15 +7,15 @@ import java.util.*;
  */
 public class leetcode451 {
     public static void main(String[] args) {
-
+        readMeSet.addnewline("https://leetcode.com/problems/sort-characters-by-frequency/", 451);
     }
     public static String frequencySort(String s) {
-        Queue<Character> q = new PriorityQueue<Character>();
+        Queue<Character> q = new PriorityQueue<>();
         StringBuilder stringBuilder = new StringBuilder();
         for (int i = 0; i < s.length(); i++) {
             q.add(s.charAt(i));
         }
-        List<String> list = new ArrayList<String>();
+        List<String> list = new ArrayList<>();
         char n = q.peek();
         StringBuilder temp = new StringBuilder();
         while(!q.isEmpty()) {

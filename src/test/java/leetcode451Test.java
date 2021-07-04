@@ -11,8 +11,8 @@ class leetcode451Test {
 
     @Test
     void frequencySort() {
-        //assertEquals("eer",leetcode451.frequencySort("ree"));
+        assertEquals("eer",leetcode451.frequencySort("ree"));
         assertEquals("ccca",leetcode451.frequencySort("ccca"));
-        assertEquals("bbAa",leetcode451.frequencySort("Aabb"));
+        assertTrue("bbAa".equals(leetcode451.frequencySort("Aabb")) || "bbaA".equals(leetcode451.frequencySort("Aabb")));
     }
 }
