@@ -5,9 +5,7 @@
  */
 public class test {
     public static void main(String[] args) {
-        int a = 7;
-        int b = 3;
-        int c = (int) (a / b + 0.5);
-        System.out.println(c);
+        String a = "abcde";
+        System.out.println(a.substring(5, 5));
     }
 }
