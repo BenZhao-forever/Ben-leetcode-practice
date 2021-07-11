@@ -20,3 +20,5 @@ leetcodenumber|question|answer|test
 [781](https://leetcode.com/problems/rabbits-in-forest/)|[leetcode-781.md](src/question/leetcode-781.md)|[leetcode781.java](src/main/java/leetcode781.java)|[leetcode781Test.java](src/test/java/leetcode781Test.java)
 [82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[leetcode-82.md](src/question/leetcode-82.md)|[leetcode82.java](src/main/java/leetcode82.java)|[leetcode82Test.java](src/test/java/leetcode82Test.java)
 [709](https://leetcode.com/problems/to-lower-case/)|[leetcode-709.md](src/question/leetcode-709.md)|[leetcode709.java](src/main/java/leetcode709.java)|[leetcode709Test.java](src/test/java/leetcode709Test.java)
+[83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[leetcode-83.md](src/question/leetcode-83.md)|[leetcode83.java](src/main/java/leetcode83.java)|[leetcode83Test.java](src/test/java/leetcode83Test.java)
+[203](https://leetcode.com/problems/remove-linked-list-elements/)|[leetcode-203.md](src/question/leetcode-203.md)|[leetcode203.java](src/main/java/leetcode203.java)|[leetcode203Test.java](src/test/java/leetcode203Test.java)
