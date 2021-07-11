@@ -9,7 +9,7 @@ public class leetcode203 {
     }
     public static ListNode removeElements(ListNode head, int val) {
         if (head == null) {
-            return head;
+            return null;
         }
         ListNode pre = new ListNode();
         ListNode temphead = pre;
