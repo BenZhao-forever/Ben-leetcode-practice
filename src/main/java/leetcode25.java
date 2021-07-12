@@ -2,47 +2,51 @@ import java.util.Stack;
 
 public class leetcode25 {
     public static void main(String[] args) {
-
+        readMeSet.addnewline("https://leetcode.com/problems/reverse-nodes-in-k-group/", 25);
     }
     public static ListNode reverseKGroup(ListNode head, int k) {
         if (k == 1 || head == null || head.next == null) {
             return head;
         }
-        ListNode temp = head;
-        for (int i = 0; i < k - 1; i++) {
-            head = head.next;
-        }
-        while(temp != null) {
-            temp = reverse(temp, k);
+        ListNode pre = new ListNode();
+        pre.next = head;
+        ListNode back = head;
+        ListNode[] mid;
+        ListNode temphead = pre;
+        while (back != null) {
+            for (int i = 0; i < k - 1; i++) {
+                back = back.next;
+                if (back == null) {
+                    return temphead.next;
+                }
+            }
+            ListNode next = back.next;
+            mid = reverse(pre.next, back);
+            pre.next = mid[0];
+            mid[1].next = next;
+            back = next;
             for (int i = 0; i < k; i++) {
-                temp = temp.next;
-                if (temp == null) {
-                    return head;
+                pre = pre.next;
+                if (pre == null) {
+                    return temphead.next;
                 }
             }
         }
-        return head;
+        return temphead.next;
     }
-    public static ListNode reverse(ListNode head, int k) {
-        if (head == null || head.next == null) {
-            return head;
+    public static ListNode[] reverse(ListNode front, ListNode back) {
+        back.next = null;
+        ListNode temphead = front;
+        ListNode pre = null;
+        ListNode cur = front;
+        ListNode next = cur.next;
+        while (next != null) {
+            cur.next = pre;
+            pre = cur;
+            cur = next;
+            next = next.next;
         }
-        ListNode newhead = new ListNode();
-        Stack<ListNode> stack = new Stack<>();
-        for (int i = 0; i < k; i++) {
-            if (head == null) {
-                return newhead;
-            }
-            stack.push(head);
-            head = head.next;
-        }
-        newhead = stack.pop();
-        ListNode resulthead = newhead;
-        while (!stack.isEmpty()) {
-            newhead.next = stack.pop();
-            newhead = newhead.next;
-        }
-        newhead.next = head;
-        return resulthead;
+        cur.next = pre;
+        return new ListNode[] {cur, temphead};
     }
 }

@@ -8,33 +8,30 @@ public class leetcode2 {
 
     }
     public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode pre = new ListNode();
-        pre.next = l1;
-        while (true) {
-            l1.val += l2.val;
-            if (l1.next == null) {
-                l1.next = l2.next;
-                break;
+        int count = 0;
+        ListNode ans = new ListNode();
+        ans.next = l1;
+        while (l1 != null || l2 != null) {
+            if (l2 == null) {
+                l2 = new ListNode(0);
             }
-            if (l2.next == null) {
-                break;
+            l1.val = l1.val + l2.val + count;
+            if (l1.val >= 10) {
+                count = 1;
+                l1.val = l1.val % 10;
+            }else {
+                count = 0;
             }
-            l1 = l1.next;
-            l2 = l2.next;
-        }
-        l1 = pre.next;
-        while (l1 != null) {
-            if (l1.next == null && l1.val >= 10) {
-                l1.val %= 10;
+            if (l1.next == null && l2.next == null && count == 1) {
                 l1.next = new ListNode(1);
                 break;
             }
-            if (l1.val >= 10) {
-                l1.val %= 10;
-                l1.next.val ++;
+            if (l1.next == null && l2.next !=null) {
+                l1.next = new ListNode(0);
             }
+            l2 = l2.next;
             l1 = l1.next;
         }
-        return pre.next;
+        return ans.next;
     }
 }

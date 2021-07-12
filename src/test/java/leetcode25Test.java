@@ -23,11 +23,7 @@ class leetcode25Test {
         ListNode head4 = ListNode.create(list4);
         ListNode head5 = ListNode.create(list5);
         ListNode head6 = ListNode.create(list6);
-        assertEquals(ListNode.toString(head3), ListNode.toString(leetcode25.reverse(head1, 2)));
-        assertEquals(ListNode.toString(head5), ListNode.toString(leetcode25.reverse(head4, 2)));
 
-        assertEquals(ListNode.toString(head2), ListNode.toString(leetcode25.reverse(head1, 3)));
-        assertEquals(ListNode.toString(head6), ListNode.toString(leetcode25.reverse(head1, 4)));
     }
 
     @Test
@@ -41,7 +37,9 @@ class leetcode25Test {
         ListNode head3 = ListNode.create(list3);
         ListNode head4 = ListNode.create(list4);
         assertEquals(ListNode.toString(head3), ListNode.toString(leetcode25.reverseKGroup(head1, 3)));
+        head1 = ListNode.create(list1);
         assertEquals(ListNode.toString(head4), ListNode.toString(leetcode25.reverseKGroup(head1, 4)));
+        head1 = ListNode.create(list1);
         assertEquals(ListNode.toString(head2), ListNode.toString(leetcode25.reverseKGroup(head1, 2)));
 
 

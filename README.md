@@ -25,3 +25,7 @@ leetcodenumber|question|answer|test
 [19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[leetcode-19.md](src/question/leetcode-19.md)|[leetcode19.java](src/main/java/leetcode19.java)|[leetcode19Test.java](src/test/java/leetcode19Test.java)
 [82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[leetcode-82.md](src/question/leetcode-82.md)|[leetcode82.java](src/main/java/leetcode82.java)|[leetcode82Test.java](src/test/java/leetcode82Test.java)
 [206](https://leetcode.com/problems/reverse-linked-list/submissions/)|[leetcode-206.md](src/question/leetcode-206.md)|[leetcode206.java](src/main/java/leetcode206.java)|[leetcode206Test.java](src/test/java/leetcode206Test.java)
+[92](https://leetcode.com/problems/reverse-linked-list-ii/)|[leetcode-92.md](src/question/leetcode-92.md)|[leetcode92.java](src/main/java/leetcode92.java)|[leetcode92Test.java](src/test/java/leetcode92Test.java)
+[61](https://leetcode.com/problems/rotate-list/)|[leetcode-61.md](src/question/leetcode-61.md)|[leetcode61.java](src/main/java/leetcode61.java)|[leetcode61Test.java](src/test/java/leetcode61Test.java)
+[25](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[leetcode-25.md](src/question/leetcode-25.md)|[leetcode25.java](src/main/java/leetcode25.java)|[leetcode25Test.java](src/test/java/leetcode25Test.java)
+[21](https://leetcode.com/problems/merge-two-sorted-lists/)|[leetcode-21.md](src/question/leetcode-21.md)|[leetcode21.java](src/main/java/leetcode21.java)|[leetcode21Test.java](src/test/java/leetcode21Test.java)
