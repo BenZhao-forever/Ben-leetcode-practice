@@ -32,3 +32,4 @@ leetcodenumber|question|answer|test
 [445](https://leetcode.com/problems/add-two-numbers-ii/)|[leetcode-445.md](src/question/leetcode-445.md)|[leetcode445.java](src/main/java/leetcode445.java)|[leetcode445Test.java](src/test/java/leetcode445Test.java)
 [725](https://leetcode.com/problems/split-linked-list-in-parts/)|[leetcode-725.md](src/question/leetcode-725.md)|[leetcode725.java](src/main/java/leetcode725.java)|[leetcode725Test.java](src/test/java/leetcode725Test.java)
 [86](https://leetcode.com/problems/partition-list/)|[leetcode-86.md](src/question/leetcode-86.md)|[leetcode86.java](src/main/java/leetcode86.java)|[leetcode86Test.java](src/test/java/leetcode86Test.java)
+[23](https://leetcode.com/problems/merge-k-sorted-lists/)|[leetcode-23.md](src/question/leetcode-23.md)|[leetcode23.java](src/main/java/leetcode23.java)|[leetcode23Test.java](src/test/java/leetcode23Test.java)
