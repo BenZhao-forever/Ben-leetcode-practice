@@ -33,3 +33,4 @@ leetcodenumber|question|answer|test
 [725](https://leetcode.com/problems/split-linked-list-in-parts/)|[leetcode-725.md](src/question/leetcode-725.md)|[leetcode725.java](src/main/java/leetcode725.java)|[leetcode725Test.java](src/test/java/leetcode725Test.java)
 [86](https://leetcode.com/problems/partition-list/)|[leetcode-86.md](src/question/leetcode-86.md)|[leetcode86.java](src/main/java/leetcode86.java)|[leetcode86Test.java](src/test/java/leetcode86Test.java)
 [23](https://leetcode.com/problems/merge-k-sorted-lists/)|[leetcode-23.md](src/question/leetcode-23.md)|[leetcode23.java](src/main/java/leetcode23.java)|[leetcode23Test.java](src/test/java/leetcode23Test.java)
+[143](https://leetcode.com/problems/reorder-list/)|[leetcode-143.md](src/question/leetcode-143.md)|[leetcode143.java](src/main/java/leetcode143.java)|[leetcode143Test.java](src/test/java/leetcode143Test.java)
