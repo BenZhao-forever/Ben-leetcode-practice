@@ -30,3 +30,4 @@ leetcodenumber|question|answer|test
 [25](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[leetcode-25.md](src/question/leetcode-25.md)|[leetcode25.java](src/main/java/leetcode25.java)|[leetcode25Test.java](src/test/java/leetcode25Test.java)
 [21](https://leetcode.com/problems/merge-two-sorted-lists/)|[leetcode-21.md](src/question/leetcode-21.md)|[leetcode21.java](src/main/java/leetcode21.java)|[leetcode21Test.java](src/test/java/leetcode21Test.java)
 [445](https://leetcode.com/problems/add-two-numbers-ii/)|[leetcode-445.md](src/question/leetcode-445.md)|[leetcode445.java](src/main/java/leetcode445.java)|[leetcode445Test.java](src/test/java/leetcode445Test.java)
+[725](https://leetcode.com/problems/split-linked-list-in-parts/)|[leetcode-725.md](src/question/leetcode-725.md)|[leetcode725.java](src/main/java/leetcode725.java)|[leetcode725Test.java](src/test/java/leetcode725Test.java)

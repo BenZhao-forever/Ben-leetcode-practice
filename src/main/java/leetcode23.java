@@ -4,6 +4,7 @@ public class leetcode23 {
     }
     public ListNode mergeKLists(ListNode[] lists) {
         ListNode head = new ListNode(-1);
+        
         return head;
     }
 }
