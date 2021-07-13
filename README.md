@@ -43,3 +43,5 @@ leetcodenumber|question|answer|test
 [53](https://leetcode.com/problems/maximum-subarray/)|[leetcode-53.md](src/question/leetcode-53.md)|[leetcode53.java](src/main/java/leetcode53.java)|[leetcode53Test.java](src/test/java/leetcode53Test.java)
 [148](https://leetcode.com/problems/sort-list/)|[leetcode-148.md](src/question/leetcode-148.md)|[leetcode148.java](src/main/java/leetcode148.java)|[leetcode148Test.java](src/test/java/leetcode148Test.java)
 [26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[leetcode-26.md](src/question/leetcode-26.md)|[leetcode26.java](src/main/java/leetcode26.java)|[leetcode26Test.java](src/test/java/leetcode26Test.java)
+[27](https://leetcode.com/problems/remove-element/)|[leetcode-27.md](src/question/leetcode-27.md)|[leetcode27.java](src/main/java/leetcode27.java)|[leetcode27Test.java](src/test/java/leetcode27Test.java)
+[28](https://leetcode.com/problems/implement-strstr/)|[leetcode-28.md](src/question/leetcode-28.md)|[leetcode28.java](src/main/java/leetcode28.java)|[leetcode28Test.java](src/test/java/leetcode28Test.java)
