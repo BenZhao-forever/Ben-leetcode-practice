@@ -35,3 +35,5 @@ leetcodenumber|question|answer|test
 [23](https://leetcode.com/problems/merge-k-sorted-lists/)|[leetcode-23.md](src/question/leetcode-23.md)|[leetcode23.java](src/main/java/leetcode23.java)|[leetcode23Test.java](src/test/java/leetcode23Test.java)
 [143](https://leetcode.com/problems/reorder-list/)|[leetcode-143.md](src/question/leetcode-143.md)|[leetcode143.java](src/main/java/leetcode143.java)|[leetcode143Test.java](src/test/java/leetcode143Test.java)
 [234](https://leetcode.com/problems/palindrome-linked-list/)|[leetcode-234.md](src/question/leetcode-234.md)|[leetcode234.java](src/main/java/leetcode234.java)|[leetcode234Test.java](src/test/java/leetcode234Test.java)
+[88](https://leetcode.com/problems/merge-sorted-array/)|[leetcode-88.md](src/question/leetcode-88.md)|[leetcode88.java](src/main/java/leetcode88.java)|[leetcode88Test.java](src/test/java/leetcode88Test.java)
+[415](https://leetcode.com/problems/add-strings/)|[leetcode-415.md](src/question/leetcode-415.md)|[leetcode415.java](src/main/java/leetcode415.java)|[leetcode415Test.java](src/test/java/leetcode415Test.java)
