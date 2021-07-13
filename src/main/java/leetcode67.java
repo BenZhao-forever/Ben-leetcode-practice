@@ -34,7 +34,7 @@ public class leetcode67 {
             }else {
                 count = 0;
             }
-            stringBuilder.append(Integer.toString(sum));
+            stringBuilder.append(sum);
             pointera--;
             pointerb--;
         }
