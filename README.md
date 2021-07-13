@@ -42,3 +42,4 @@ leetcodenumber|question|answer|test
 [147](https://leetcode.com/problems/insertion-sort-list/)|[leetcode-147.md](src/question/leetcode-147.md)|[leetcode147.java](src/main/java/leetcode147.java)|[leetcode147Test.java](src/test/java/leetcode147Test.java)
 [53](https://leetcode.com/problems/maximum-subarray/)|[leetcode-53.md](src/question/leetcode-53.md)|[leetcode53.java](src/main/java/leetcode53.java)|[leetcode53Test.java](src/test/java/leetcode53Test.java)
 [148](https://leetcode.com/problems/sort-list/)|[leetcode-148.md](src/question/leetcode-148.md)|[leetcode148.java](src/main/java/leetcode148.java)|[leetcode148Test.java](src/test/java/leetcode148Test.java)
+[26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[leetcode-26.md](src/question/leetcode-26.md)|[leetcode26.java](src/main/java/leetcode26.java)|[leetcode26Test.java](src/test/java/leetcode26Test.java)
