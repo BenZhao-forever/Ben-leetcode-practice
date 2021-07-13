@@ -48,3 +48,4 @@ leetcodenumber|question|answer|test
 [35](https://leetcode.com/problems/search-insert-position/)|[leetcode-35.md](src/question/leetcode-35.md)|[leetcode35.java](src/main/java/leetcode35.java)|[leetcode35Test.java](src/test/java/leetcode35Test.java)
 [58](https://leetcode.com/problems/length-of-last-word/)|[leetcode-58.md](src/question/leetcode-58.md)|[leetcode58.java](src/main/java/leetcode58.java)|[leetcode58Test.java](src/test/java/leetcode58Test.java)
 [66](https://leetcode.com/problems/plus-one/)|[leetcode-66.md](src/question/leetcode-66.md)|[leetcode66.java](src/main/java/leetcode66.java)|[leetcode66Test.java](src/test/java/leetcode66Test.java)
+[67](https://leetcode.com/problems/add-binary/)|[leetcode-67.md](src/question/leetcode-67.md)|[leetcode67.java](src/main/java/leetcode67.java)|[leetcode67Test.java](src/test/java/leetcode67Test.java)
