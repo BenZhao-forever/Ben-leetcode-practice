@@ -40,3 +40,5 @@ leetcodenumber|question|answer|test
 [70](https://leetcode.com/problems/climbing-stairs/)|[leetcode-70.md](src/question/leetcode-70.md)|[leetcode70.java](src/main/java/leetcode70.java)|[leetcode70Test.java](src/test/java/leetcode70Test.java)
 [69](https://leetcode.com/problems/sqrtx/)|[leetcode-69.md](src/question/leetcode-69.md)|[leetcode69.java](src/main/java/leetcode69.java)|[leetcode69Test.java](src/test/java/leetcode69Test.java)
 [147](https://leetcode.com/problems/insertion-sort-list/)|[leetcode-147.md](src/question/leetcode-147.md)|[leetcode147.java](src/main/java/leetcode147.java)|[leetcode147Test.java](src/test/java/leetcode147Test.java)
+[53](https://leetcode.com/problems/maximum-subarray/)|[leetcode-53.md](src/question/leetcode-53.md)|[leetcode53.java](src/main/java/leetcode53.java)|[leetcode53Test.java](src/test/java/leetcode53Test.java)
+[148](https://leetcode.com/problems/sort-list/)|[leetcode-148.md](src/question/leetcode-148.md)|[leetcode148.java](src/main/java/leetcode148.java)|[leetcode148Test.java](src/test/java/leetcode148Test.java)
