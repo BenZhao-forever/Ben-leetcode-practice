@@ -38,3 +38,4 @@ leetcodenumber|question|answer|test
 [88](https://leetcode.com/problems/merge-sorted-array/)|[leetcode-88.md](src/question/leetcode-88.md)|[leetcode88.java](src/main/java/leetcode88.java)|[leetcode88Test.java](src/test/java/leetcode88Test.java)
 [415](https://leetcode.com/problems/add-strings/)|[leetcode-415.md](src/question/leetcode-415.md)|[leetcode415.java](src/main/java/leetcode415.java)|[leetcode415Test.java](src/test/java/leetcode415Test.java)
 [70](https://leetcode.com/problems/climbing-stairs/)|[leetcode-70.md](src/question/leetcode-70.md)|[leetcode70.java](src/main/java/leetcode70.java)|[leetcode70Test.java](src/test/java/leetcode70Test.java)
+[69](https://leetcode.com/problems/sqrtx/)|[leetcode-69.md](src/question/leetcode-69.md)|[leetcode69.java](src/main/java/leetcode69.java)|[leetcode69Test.java](src/test/java/leetcode69Test.java)
