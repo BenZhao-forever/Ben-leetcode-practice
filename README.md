@@ -46,3 +46,4 @@ leetcodenumber|question|answer|test
 [27](https://leetcode.com/problems/remove-element/)|[leetcode-27.md](src/question/leetcode-27.md)|[leetcode27.java](src/main/java/leetcode27.java)|[leetcode27Test.java](src/test/java/leetcode27Test.java)
 [28](https://leetcode.com/problems/implement-strstr/)|[leetcode-28.md](src/question/leetcode-28.md)|[leetcode28.java](src/main/java/leetcode28.java)|[leetcode28Test.java](src/test/java/leetcode28Test.java)
 [35](https://leetcode.com/problems/search-insert-position/)|[leetcode-35.md](src/question/leetcode-35.md)|[leetcode35.java](src/main/java/leetcode35.java)|[leetcode35Test.java](src/test/java/leetcode35Test.java)
+[58](https://leetcode.com/problems/length-of-last-word/)|[leetcode-58.md](src/question/leetcode-58.md)|[leetcode58.java](src/main/java/leetcode58.java)|[leetcode58Test.java](src/test/java/leetcode58Test.java)
