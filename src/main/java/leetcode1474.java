@@ -13,7 +13,7 @@ public class leetcode1474 {
         }
         ListNode temphead = head;
         ListNode pointera = temphead;
-        ListNode pointerb = temphead;
+        ListNode pointerb;
         int pointer = 1;
         while (head.next != null) {
             if (pointer % (m + n) == m) {
