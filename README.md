@@ -50,3 +50,4 @@ leetcodenumber|question|answer|test
 [66](https://leetcode.com/problems/plus-one/)|[leetcode-66.md](src/question/leetcode-66.md)|[leetcode66.java](src/main/java/leetcode66.java)|[leetcode66Test.java](src/test/java/leetcode66Test.java)
 [67](https://leetcode.com/problems/add-binary/)|[leetcode-67.md](src/question/leetcode-67.md)|[leetcode67.java](src/main/java/leetcode67.java)|[leetcode67Test.java](src/test/java/leetcode67Test.java)
 [1474](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)|[leetcode-1474.md](src/question/leetcode-1474.md)|[leetcode1474.java](src/main/java/leetcode1474.java)|[leetcode1474Test.java](src/test/java/leetcode1474Test.java)
+[1836](https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/)|[leetcode-1836.md](src/question/leetcode-1836.md)|[leetcode1836.java](src/main/java/leetcode1836.java)|[leetcode1836Test.java](src/test/java/leetcode1836Test.java)
