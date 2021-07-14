@@ -49,3 +49,4 @@ leetcodenumber|question|answer|test
 [58](https://leetcode.com/problems/length-of-last-word/)|[leetcode-58.md](src/question/leetcode-58.md)|[leetcode58.java](src/main/java/leetcode58.java)|[leetcode58Test.java](src/test/java/leetcode58Test.java)
 [66](https://leetcode.com/problems/plus-one/)|[leetcode-66.md](src/question/leetcode-66.md)|[leetcode66.java](src/main/java/leetcode66.java)|[leetcode66Test.java](src/test/java/leetcode66Test.java)
 [67](https://leetcode.com/problems/add-binary/)|[leetcode-67.md](src/question/leetcode-67.md)|[leetcode67.java](src/main/java/leetcode67.java)|[leetcode67Test.java](src/test/java/leetcode67Test.java)
+[1474](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/)|[leetcode-1474.md](src/question/leetcode-1474.md)|[leetcode1474.java](src/main/java/leetcode1474.java)|[leetcode1474Test.java](src/test/java/leetcode1474Test.java)
