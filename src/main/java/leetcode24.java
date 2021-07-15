@@ -31,7 +31,7 @@ public class leetcode24 {
         }
         pre.next = swap2;
         swap2.next = swap1;
-        swap1.next = next;
+        swap1.next = null;
         return temphead.next;
     }
 }

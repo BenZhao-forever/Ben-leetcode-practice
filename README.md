@@ -54,3 +54,4 @@ leetcodenumber|question|answer|test
 [1846](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)|[leetcode-1846.md](src/question/leetcode-1846.md)|[leetcode1846.java](src/main/java/leetcode1846.java)|[leetcode1846Test.java](src/test/java/leetcode1846Test.java)
 [34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[leetcode-34.md](src/question/leetcode-34.md)|[leetcode34.java](src/main/java/leetcode34.java)|[leetcode34Test.java](src/test/java/leetcode34Test.java)
 [24](https://leetcode.com/problems/swap-nodes-in-pairs/)|[leetcode-24.md](src/question/leetcode-24.md)|[leetcode24.java](src/main/java/leetcode24.java)|[leetcode24Test.java](src/test/java/leetcode24Test.java)
+[1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[leetcode-1721.md](src/question/leetcode-1721.md)|[leetcode1721.java](src/main/java/leetcode1721.java)|[leetcode1721Test.java](src/test/java/leetcode1721Test.java)
