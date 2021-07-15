@@ -5,7 +5,9 @@
  */
 public class test {
     public static void main(String[] args) {
-        String a = "abcde";
-        System.out.println(a.substring(5, 5));
+        System.out.println(time(99999999, 99999999));
+    }
+    public static int time(int m, int n) {
+        return m*n;
     }
 }
