@@ -63,3 +63,4 @@ leetcodenumber|question|answer|test
 [1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[leetcode-1779.md](src/question/leetcode-1779.md)|[leetcode1779.java](src/main/java/leetcode1779.java)|[leetcode1779Test.java](src/test/java/leetcode1779Test.java)
 [999](https://leetcode.com/problems/available-captures-for-rook/)|[leetcode-999.md](src/question/leetcode-999.md)|[leetcode999.java](src/main/java/leetcode999.java)|[leetcode999Test.java](src/test/java/leetcode999Test.java)
 [702](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[leetcode-702.md](src/question/leetcode-702.md)|[leetcode702.java](src/main/java/leetcode702.java)|[leetcode702Test.java](src/test/java/leetcode702Test.java)
+[704](https://leetcode.com/problems/binary-search/)|[leetcode-704.md](src/question/leetcode-704.md)|[leetcode704.java](src/main/java/leetcode704.java)|[leetcode704Test.java](src/test/java/leetcode704Test.java)
