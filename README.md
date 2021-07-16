@@ -57,3 +57,4 @@ leetcodenumber|question|answer|test
 [1721](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)|[leetcode-1721.md](src/question/leetcode-1721.md)|[leetcode1721.java](src/main/java/leetcode1721.java)|[leetcode1721Test.java](src/test/java/leetcode1721Test.java)
 [189](https://leetcode.com/problems/rotate-array/)|[leetcode-189.md](src/question/leetcode-189.md)|[leetcode189.java](src/main/java/leetcode189.java)|[leetcode189Test.java](src/test/java/leetcode189Test.java)
 [1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)|[leetcode-1461.md](src/question/leetcode-1461.md)|[leetcode1461.java](src/main/java/leetcode1461.java)|[leetcode1461Test.java](src/test/java/leetcode1461Test.java)
+[1408](https://leetcode.com/problems/string-matching-in-an-array/)|[leetcode-1408.md](src/question/leetcode-1408.md)|[leetcode1408.java](src/main/java/leetcode1408.java)|[leetcode1408Test.java](src/test/java/leetcode1408Test.java)
