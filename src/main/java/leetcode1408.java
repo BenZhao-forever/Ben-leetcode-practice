@@ -1,6 +1,6 @@
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 
 /**
@@ -17,7 +17,7 @@ public class leetcode1408 {
         if (words.length < 2) {
             return answer;
         }
-        Arrays.sort(words, (a, b) -> Integer.compare(a.length(), b.length()));
+        Arrays.sort(words, Comparator.comparingInt(String::length));
         for (int i = 0; i < words.length - 1; i++) {
             for (int j = i + 1; j < words.length; j++) {
                 if (isSubstring(words[j], words[i])) {
@@ -30,7 +30,7 @@ public class leetcode1408 {
     }
     public static boolean isSubstring(String l, String s) {
         for (int i = 0; i < l.length() - s.length() + 1; i++) {
-            if (l.substring(i, i + s.length()).equals(s)) {
+            if (l.startsWith(s, i)) {
                 return true;
             }
         }
