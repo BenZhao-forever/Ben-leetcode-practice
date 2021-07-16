@@ -61,3 +61,4 @@ leetcodenumber|question|answer|test
 [剑指61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)|[jianzhi-61.md](src/question/jianzhi-61.md)|[jianzhi61.java](src/main/java/jianzhi61.java)|[jianzhi61Test.java](src/test/java/jianzhi61Test.java)
 [18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)|[jianzhi-18.md](src/question/jianzhi-18.md)|[jianzhi18.java](src/main/java/jianzhi18.java)|[jianzhi18Test.java](src/test/java/jianzhi18Test.java)
 [1779](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[leetcode-1779.md](src/question/leetcode-1779.md)|[leetcode1779.java](src/main/java/leetcode1779.java)|[leetcode1779Test.java](src/test/java/leetcode1779Test.java)
+[999](https://leetcode.com/problems/available-captures-for-rook/)|[leetcode-999.md](src/question/leetcode-999.md)|[leetcode999.java](src/main/java/leetcode999.java)|[leetcode999Test.java](src/test/java/leetcode999Test.java)
