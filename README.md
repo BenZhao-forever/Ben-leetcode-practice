@@ -64,3 +64,4 @@ leetcodenumber|question|answer|test
 [999](https://leetcode.com/problems/available-captures-for-rook/)|[leetcode-999.md](src/question/leetcode-999.md)|[leetcode999.java](src/main/java/leetcode999.java)|[leetcode999Test.java](src/test/java/leetcode999Test.java)
 [702](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[leetcode-702.md](src/question/leetcode-702.md)|[leetcode702.java](src/main/java/leetcode702.java)|[leetcode702Test.java](src/test/java/leetcode702Test.java)
 [704](https://leetcode.com/problems/binary-search/)|[leetcode-704.md](src/question/leetcode-704.md)|[leetcode704.java](src/main/java/leetcode704.java)|[leetcode704Test.java](src/test/java/leetcode704Test.java)
+[283](https://leetcode.com/problems/move-zeroes/)|[leetcode-283.md](src/question/leetcode-283.md)|[leetcode283.java](src/main/java/leetcode283.java)|[leetcode283Test.java](src/test/java/leetcode283Test.java)
