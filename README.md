@@ -66,3 +66,4 @@ leetcodenumber|question|answer|test
 [704](https://leetcode.com/problems/binary-search/)|[leetcode-704.md](src/question/leetcode-704.md)|[leetcode704.java](src/main/java/leetcode704.java)|[leetcode704Test.java](src/test/java/leetcode704Test.java)
 [283](https://leetcode.com/problems/move-zeroes/)|[leetcode-283.md](src/question/leetcode-283.md)|[leetcode283.java](src/main/java/leetcode283.java)|[leetcode283Test.java](src/test/java/leetcode283Test.java)
 [844](https://leetcode.com/problems/backspace-string-compare/)|[leetcode-844.md](src/question/leetcode-844.md)|[leetcode844.java](src/main/java/leetcode844.java)|[leetcode844Test.java](src/test/java/leetcode844Test.java)
+[397](https://leetcode.com/problems/integer-replacement/)|[leetcode-397.md](src/question/leetcode-397.md)|[leetcode397.java](src/main/java/leetcode397.java)|[leetcode397Test.java](src/test/java/leetcode397Test.java)
