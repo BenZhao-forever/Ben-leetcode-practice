@@ -7,7 +7,7 @@ public class leetcode203 {
     public static void main(String[] args) {
         readMeSet.addnewline("https://leetcode.com/problems/remove-linked-list-elements/", 203);
     }
-    public static ListNode removeElements(ListNode head, int val) {
+    /*public static ListNode removeElements(ListNode head, int val) {
         if (head == null) {
             return null;
         }
@@ -22,6 +22,24 @@ public class leetcode203 {
                 pre = pre.next;
             }
             cur = cur.next;
+        }
+        return temphead.next;
+    }*/
+
+    public static ListNode removeElements(ListNode head, int val) {
+        if (head == null) {
+            return null;
+        }
+        ListNode temphead = new ListNode();
+        temphead.next = head;
+        ListNode pre = temphead;
+        while (head != null) {
+            if (head.val == val) {
+                pre.next = head.next;
+            }else {
+                pre = pre.next;
+            }
+            head = head.next;
         }
         return temphead.next;
     }
