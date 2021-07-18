@@ -69,3 +69,4 @@ leetcodenumber|question|answer|test
 [397](https://leetcode.com/problems/integer-replacement/)|[leetcode-397.md](src/question/leetcode-397.md)|[leetcode397.java](src/main/java/leetcode397.java)|[leetcode397Test.java](src/test/java/leetcode397Test.java)
 [1403](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)|[leetcode-1403.md](src/question/leetcode-1403.md)|[leetcode1403.java](src/main/java/leetcode1403.java)|[leetcode1403Test.java](src/test/java/leetcode1403Test.java)
 [1925](https://leetcode.com/problems/count-square-sum-triples/)|[leetcode-1925.md](src/question/leetcode-1925.md)|[leetcode1925.java](src/main/java/leetcode1925.java)|[leetcode1925Test.java](src/test/java/leetcode1925Test.java)
+[100](https://leetcode.com/problems/same-tree/)|[leetcode-100.md](src/question/leetcode-100.md)|[leetcode100.java](src/main/java/leetcode100.java)|[leetcode100Test.java](src/test/java/leetcode100Test.java)
