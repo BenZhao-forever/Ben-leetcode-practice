@@ -71,3 +71,5 @@ leetcodenumber|question|answer|test
 [1925](https://leetcode.com/problems/count-square-sum-triples/)|[leetcode-1925.md](src/question/leetcode-1925.md)|[leetcode1925.java](src/main/java/leetcode1925.java)|[leetcode1925Test.java](src/test/java/leetcode1925Test.java)
 [100](https://leetcode.com/problems/same-tree/)|[leetcode-100.md](src/question/leetcode-100.md)|[leetcode100.java](src/main/java/leetcode100.java)|[leetcode100Test.java](src/test/java/leetcode100Test.java)
 [263](https://leetcode.com/problems/ugly-number/)|[leetcode-263.md](src/question/leetcode-263.md)|[leetcode263.java](src/main/java/leetcode263.java)|[leetcode263Test.java](src/test/java/leetcode263Test.java)
+[811](https://leetcode.com/problems/subdomain-visit-count/)|[leetcode-811.md](src/question/leetcode-811.md)|[leetcode811.java](src/main/java/leetcode811.java)|[leetcode811Test.java](src/test/java/leetcode811Test.java)
+[1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/)|[leetcode-1100.md](src/question/leetcode-1100.md)|[leetcode1100.java](src/main/java/leetcode1100.java)|[leetcode1100Test.java](src/test/java/leetcode1100Test.java)
