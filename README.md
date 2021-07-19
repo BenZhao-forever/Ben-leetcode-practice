@@ -77,3 +77,4 @@ leetcodenumber|question|answer|test
 [258](https://leetcode.com/problems/add-digits/)|[leetcode-258.md](src/question/leetcode-258.md)|[leetcode258.java](src/main/java/leetcode258.java)|[leetcode258Test.java](src/test/java/leetcode258Test.java)
 [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[leetcode-1128.md](src/question/leetcode-1128.md)|[leetcode1128.java](src/main/java/leetcode1128.java)|[leetcode1128Test.java](src/test/java/leetcode1128Test.java)
 [746](https://leetcode.com/problems/min-cost-climbing-stairs/)|[leetcode-746.md](src/question/leetcode-746.md)|[leetcode746.java](src/main/java/leetcode746.java)|[leetcode746Test.java](src/test/java/leetcode746Test.java)
+[54](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|[jianzhi-54.md](src/question/jianzhi-54.md)|[jianzhi54.java](src/main/java/jianzhi54.java)|[jianzhi54Test.java](src/test/java/jianzhi54Test.java)
