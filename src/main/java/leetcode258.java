@@ -1,0 +1,13 @@
+/**
+ * Package: PACKAGE_NAME
+ * Created by Ben Zhao on 2021/7/19
+ * Project: Ben-leetcode-practice
+ */
+public class leetcode258 {
+    public static void main(String[] args) {
+        readMeSet.addnewline("https://leetcode.com/problems/add-digits/", 258);
+    }
+    public static int addDigit(int num) {
+        return (num - 1) % 9 + 1;
+    }
+}
