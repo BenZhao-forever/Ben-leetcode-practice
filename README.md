@@ -76,3 +76,4 @@ leetcodenumber|question|answer|test
 [1122](https://leetcode.com/problems/relative-sort-array/submissions/)|[leetcode-1122.md](src/question/leetcode-1122.md)|[leetcode1122.java](src/main/java/leetcode1122.java)|[leetcode1122Test.java](src/test/java/leetcode1122Test.java)
 [258](https://leetcode.com/problems/add-digits/)|[leetcode-258.md](src/question/leetcode-258.md)|[leetcode258.java](src/main/java/leetcode258.java)|[leetcode258Test.java](src/test/java/leetcode258Test.java)
 [1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[leetcode-1128.md](src/question/leetcode-1128.md)|[leetcode1128.java](src/main/java/leetcode1128.java)|[leetcode1128Test.java](src/test/java/leetcode1128Test.java)
+[746](https://leetcode.com/problems/min-cost-climbing-stairs/)|[leetcode-746.md](src/question/leetcode-746.md)|[leetcode746.java](src/main/java/leetcode746.java)|[leetcode746Test.java](src/test/java/leetcode746Test.java)
