@@ -73,3 +73,4 @@ leetcodenumber|question|answer|test
 [263](https://leetcode.com/problems/ugly-number/)|[leetcode-263.md](src/question/leetcode-263.md)|[leetcode263.java](src/main/java/leetcode263.java)|[leetcode263Test.java](src/test/java/leetcode263Test.java)
 [811](https://leetcode.com/problems/subdomain-visit-count/)|[leetcode-811.md](src/question/leetcode-811.md)|[leetcode811.java](src/main/java/leetcode811.java)|[leetcode811Test.java](src/test/java/leetcode811Test.java)
 [1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/)|[leetcode-1100.md](src/question/leetcode-1100.md)|[leetcode1100.java](src/main/java/leetcode1100.java)|[leetcode1100Test.java](src/test/java/leetcode1100Test.java)
+[1122](https://leetcode.com/problems/relative-sort-array/submissions/)|[leetcode-1122.md](src/question/leetcode-1122.md)|[leetcode1122.java](src/main/java/leetcode1122.java)|[leetcode1122Test.java](src/test/java/leetcode1122Test.java)
