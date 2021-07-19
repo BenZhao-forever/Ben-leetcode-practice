@@ -75,3 +75,4 @@ leetcodenumber|question|answer|test
 [1100](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/)|[leetcode-1100.md](src/question/leetcode-1100.md)|[leetcode1100.java](src/main/java/leetcode1100.java)|[leetcode1100Test.java](src/test/java/leetcode1100Test.java)
 [1122](https://leetcode.com/problems/relative-sort-array/submissions/)|[leetcode-1122.md](src/question/leetcode-1122.md)|[leetcode1122.java](src/main/java/leetcode1122.java)|[leetcode1122Test.java](src/test/java/leetcode1122Test.java)
 [258](https://leetcode.com/problems/add-digits/)|[leetcode-258.md](src/question/leetcode-258.md)|[leetcode258.java](src/main/java/leetcode258.java)|[leetcode258Test.java](src/test/java/leetcode258Test.java)
+[1128](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[leetcode-1128.md](src/question/leetcode-1128.md)|[leetcode1128.java](src/main/java/leetcode1128.java)|[leetcode1128Test.java](src/test/java/leetcode1128Test.java)
