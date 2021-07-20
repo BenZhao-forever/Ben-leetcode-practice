@@ -79,3 +79,4 @@ leetcodenumber|question|answer|test
 [746](https://leetcode.com/problems/min-cost-climbing-stairs/)|[leetcode-746.md](src/question/leetcode-746.md)|[leetcode746.java](src/main/java/leetcode746.java)|[leetcode746Test.java](src/test/java/leetcode746Test.java)
 [54](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/)|[jianzhi-54.md](src/question/jianzhi-54.md)|[jianzhi54.java](src/main/java/jianzhi54.java)|[jianzhi54Test.java](src/test/java/jianzhi54Test.java)
 [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[leetcode-1877.md](src/question/leetcode-1877.md)|[leetcode1877.java](src/main/java/leetcode1877.java)|[leetcode1877Test.java](src/test/java/leetcode1877Test.java)
+[1845](https://leetcode.com/problems/seat-reservation-manager/)|[leetcode-1845.md](src/question/leetcode-1845.md)|[leetcode1845.java](src/main/java/leetcode1845.java)|[leetcode1845Test.java](src/test/java/leetcode1845Test.java)
