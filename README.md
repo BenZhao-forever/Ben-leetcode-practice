@@ -81,3 +81,4 @@ leetcodenumber|question|answer|test
 [1877](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)|[leetcode-1877.md](src/question/leetcode-1877.md)|[leetcode1877.java](src/main/java/leetcode1877.java)|[leetcode1877Test.java](src/test/java/leetcode1877Test.java)
 [1845](https://leetcode.com/problems/seat-reservation-manager/)|[leetcode-1845.md](src/question/leetcode-1845.md)|[leetcode1845.java](src/main/java/leetcode1845.java)|[leetcode1845Test.java](src/test/java/leetcode1845Test.java)
 [977](https://leetcode.com/problems/squares-of-a-sorted-array/)|[leetcode-977.md](src/question/leetcode-977.md)|[leetcode977.java](src/main/java/leetcode977.java)|[leetcode977Test.java](src/test/java/leetcode977Test.java)
+[360](https://leetcode.com/problems/sort-transformed-array/)|[leetcode-360.md](src/question/leetcode-360.md)|[leetcode360.java](src/main/java/leetcode360.java)|[leetcode360Test.java](src/test/java/leetcode360Test.java)

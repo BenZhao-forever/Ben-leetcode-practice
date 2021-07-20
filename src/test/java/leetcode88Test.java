@@ -26,6 +26,5 @@ class leetcode88Test {
         assertArrayEquals(ans2, nums3);
         leetcode88.merge(nums5, 1, nums6, 0);
         assertArrayEquals(ans3, nums5);
-
     }
 }
