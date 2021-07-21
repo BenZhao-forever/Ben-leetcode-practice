@@ -85,3 +85,4 @@ leetcodenumber|question|answer|test
 [209](https://leetcode.com/problems/minimum-size-subarray-sum/)|[leetcode-209.md](src/question/leetcode-209.md)|[leetcode209.java](src/main/java/leetcode209.java)|[leetcode209Test.java](src/test/java/leetcode209Test.java)
 [325](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|[leetcode-325.md](src/question/leetcode-325.md)|[leetcode325.java](src/main/java/leetcode325.java)|[leetcode325Test.java](src/test/java/leetcode325Test.java)
 [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[leetcode-160.md](src/question/leetcode-160.md)|[leetcode160.java](src/main/java/leetcode160.java)|[leetcode160Test.java](src/test/java/leetcode160Test.java)
+[904](https://leetcode.com/problems/fruit-into-baskets/)|[leetcode-904.md](src/question/leetcode-904.md)|[leetcode904.java](src/main/java/leetcode904.java)|[leetcode904Test.java](src/test/java/leetcode904Test.java)
