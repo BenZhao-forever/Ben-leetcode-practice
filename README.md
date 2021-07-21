@@ -87,3 +87,5 @@ leetcodenumber|question|answer|test
 [160](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[leetcode-160.md](src/question/leetcode-160.md)|[leetcode160.java](src/main/java/leetcode160.java)|[leetcode160Test.java](src/test/java/leetcode160Test.java)
 [904](https://leetcode.com/problems/fruit-into-baskets/)|[leetcode-904.md](src/question/leetcode-904.md)|[leetcode904.java](src/main/java/leetcode904.java)|[leetcode904Test.java](src/test/java/leetcode904Test.java)
 [76](https://leetcode.com/problems/minimum-window-substring/)|[leetcode-76.md](src/question/leetcode-76.md)|[leetcode76.java](src/main/java/leetcode76.java)|[leetcode76Test.java](src/test/java/leetcode76Test.java)
+[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)|[leetcode-718.md](src/question/leetcode-718.md)|[leetcode718.java](src/main/java/leetcode718.java)|[leetcode718Test.java](src/test/java/leetcode718Test.java)
+[59](https://leetcode.com/problems/spiral-matrix-ii/)|[leetcode-59.md](src/question/leetcode-59.md)|[leetcode59.java](src/main/java/leetcode59.java)|[leetcode59Test.java](src/test/java/leetcode59Test.java)
