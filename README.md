@@ -92,3 +92,4 @@ leetcodenumber|question|answer|test
 [242](https://leetcode.com/problems/valid-anagram/)|[leetcode-242.md](src/question/leetcode-242.md)|[leetcode242.java](src/main/java/leetcode242.java)|[leetcode242Test.java](src/test/java/leetcode242Test.java)
 [383](https://leetcode.com/problems/ransom-note/)|[leetcode-383.md](src/question/leetcode-383.md)|[leetcode383.java](src/main/java/leetcode383.java)|[leetcode383Test.java](src/test/java/leetcode383Test.java)
 [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[leetcode-438.md](src/question/leetcode-438.md)|[leetcode438.java](src/main/java/leetcode438.java)|[leetcode438Test.java](src/test/java/leetcode438Test.java)
+[1213](https://leetcode.com/problems/intersection-of-three-sorted-arrays/)|[leetcode-1213.md](src/question/leetcode-1213.md)|[leetcode1213.java](src/main/java/leetcode1213.java)|[leetcode1213Test.java](src/test/java/leetcode1213Test.java)
