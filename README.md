@@ -94,3 +94,4 @@ leetcodenumber|question|answer|test
 [438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[leetcode-438.md](src/question/leetcode-438.md)|[leetcode438.java](src/main/java/leetcode438.java)|[leetcode438Test.java](src/test/java/leetcode438Test.java)
 [1213](https://leetcode.com/problems/intersection-of-three-sorted-arrays/)|[leetcode-1213.md](src/question/leetcode-1213.md)|[leetcode1213.java](src/main/java/leetcode1213.java)|[leetcode1213Test.java](src/test/java/leetcode1213Test.java)
 [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[leetcode-350.md](src/question/leetcode-350.md)|[leetcode350.java](src/main/java/leetcode350.java)|[leetcode350Test.java](src/test/java/leetcode350Test.java)
+[349](https://leetcode.com/problems/intersection-of-two-arrays/)|[leetcode-349.md](src/question/leetcode-349.md)|[leetcode349.java](src/main/java/leetcode349.java)|[leetcode349Test.java](src/test/java/leetcode349Test.java)
