@@ -96,3 +96,4 @@ leetcodenumber|question|answer|test
 [350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[leetcode-350.md](src/question/leetcode-350.md)|[leetcode350.java](src/main/java/leetcode350.java)|[leetcode350Test.java](src/test/java/leetcode350Test.java)
 [349](https://leetcode.com/problems/intersection-of-two-arrays/)|[leetcode-349.md](src/question/leetcode-349.md)|[leetcode349.java](src/main/java/leetcode349.java)|[leetcode349Test.java](src/test/java/leetcode349Test.java)
 [202](https://leetcode.com/problems/happy-number/)|[leetcode-202.md](src/question/leetcode-202.md)|[leetcode202.java](src/main/java/leetcode202.java)|[leetcode202Test.java](src/test/java/leetcode202Test.java)
+[141](https://leetcode-cn.com/problems/linked-list-cycle/)|[leetcode-141.md](src/question/leetcode-141.md)|[leetcode141.java](src/main/java/leetcode141.java)|[leetcode141Test.java](src/test/java/leetcode141Test.java)
