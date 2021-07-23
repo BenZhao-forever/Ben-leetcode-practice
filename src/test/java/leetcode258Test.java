@@ -11,6 +11,6 @@ class leetcode258Test {
 
     @Test
     void addDigit() {
-        assertEquals(2, leetcode258.addDigit(38));
+        assertEquals(2, leetcode258.addDigits(38));
     }
 }

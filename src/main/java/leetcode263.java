@@ -7,7 +7,7 @@ public class leetcode263 {
     public static void main(String[] args) {
         readMeSet.addnewline("https://leetcode.com/problems/ugly-number/", 263);
     }
-    public static boolean isUgly(int n) {
+    /*public static boolean isUgly(int n) {
         if (n < 0) {
             return false;
         }
@@ -22,5 +22,13 @@ public class leetcode263 {
         }else {
             return false;
         }
+    }*/
+    public static boolean isUgly(int n) {
+        for (int i: new int[] {5, 3, 2}) {
+            while (n > 0 && n % i == 0) {
+                n /= i;
+            }
+        }
+        return n == 1;
     }
 }
