@@ -8,7 +8,7 @@ import java.util.Set;
  */
 public class leetcode141 {
     public static void main(String[] args) {
-        readMeSet.addnewline("https://leetcode-cn.com/problems/linked-list-cycle/", 141);
+        readMeSet.addnewline("https://leetcode.com/problems/linked-list-cycle/", 141);
     }
     public static boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {
