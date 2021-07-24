@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -11,36 +12,37 @@ public class leetcode54 {
 
     }
     public static List<Integer> spiralOrder(int[][] matrix) {
-        List<Integer> answer = new ArrayList<>();
-        int n = matrix.length;
-        int m = matrix[0].length;
-        for (int i = 0; i < n / 2; i++) {
-            for (int j = i; j < m - i - 1; j++) {
-                answer.add(matrix[i][j]);
-            }
-            for (int j = i; j < n - i - 1; j++) {
-                answer.add(matrix[j][m - i - 1]);
-            }
-            for (int j = m - i - 1; j > i; j--) {
-                answer.add(matrix[n - i - 1][j]);
-            }
-            for (int j = n - i - 1; j > i; j--) {
-                answer.add(matrix[j][i]);
-            }
+        LinkedList<Integer> result = new LinkedList<>();
+        if(matrix==null||matrix.length==0) {
+            return result;
         }
-        if (n % 2 == 1 && m % 2 == 1) {
-            answer.add(matrix[n / 2][m / 2]);
-            return answer;
-        }
-        if(n % 2 == 1) {
-            for (int i = n / 2; i < m - n / 2; i++) {
-                answer.add(matrix[n / 2][i]);
+        int left = 0;
+        int right = matrix[0].length - 1;
+        int top = 0;
+        int bottom = matrix.length - 1;
+        int numEle = matrix.length * matrix[0].length;
+        while (numEle >= 1) {
+            for (int i = left; i <= right && numEle >= 1; i++) {
+                result.add(matrix[top][i]);
+                numEle--;
             }
-        }else if (m % 2 == 1) {
-            for (int i = n / 2; i < n - n / 2; i++) {
-                answer.add(matrix[i][m/2]);
+            top++;
+            for (int i = top; i <= bottom && numEle >= 1; i++) {
+                result.add(matrix[i][right]);
+                numEle--;
             }
+            right--;
+            for (int i = right; i >= left && numEle >= 1; i--) {
+                result.add(matrix[bottom][i]);
+                numEle--;
+            }
+            bottom--;
+            for (int i = bottom; i >= top && numEle >= 1; i--) {
+                result.add(matrix[i][left]);
+                numEle--;
+            }
+            left++;
         }
-        return answer;
+        return result;
     }
 }
