@@ -101,3 +101,4 @@ leetcodenumber|question|answer|test
 [1736](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[leetcode-1736.md](src/question/leetcode-1736.md)|[leetcode1736.java](src/main/java/leetcode1736.java)|[leetcode1736Test.java](src/test/java/leetcode1736Test.java)
 [814](https://leetcode.com/problems/binary-tree-pruning/)|[leetcode-814.md](src/question/leetcode-814.md)|[leetcode814.java](src/main/java/leetcode814.java)|[leetcode814Test.java](src/test/java/leetcode814Test.java)
 [15](https://leetcode.com/problems/3sum/)|[leetcode-15.md](src/question/leetcode-15.md)|[leetcode15.java](src/main/java/leetcode15.java)|[leetcode15Test.java](src/test/java/leetcode15Test.java)
+[49](https://leetcode.com/problems/group-anagrams/)|[leetcode-49.md](src/question/leetcode-49.md)|[leetcode49.java](src/main/java/leetcode49.java)|[leetcode49Test.java](src/test/java/leetcode49Test.java)
