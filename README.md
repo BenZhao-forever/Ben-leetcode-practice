@@ -109,3 +109,4 @@ leetcodenumber|question|answer|test
 [344](https://leetcode.com/problems/reverse-string/)|[leetcode-344.md](src/question/leetcode-344.md)|[leetcode344.java](src/main/java/leetcode344.java)|[leetcode344Test.java](src/test/java/leetcode344Test.java)
 [541](https://leetcode.com/problems/reverse-string-ii/submissions/)|[leetcode-541.md](src/question/leetcode-541.md)|[leetcode541.java](src/main/java/leetcode541.java)|[leetcode541Test.java](src/test/java/leetcode541Test.java)
 [1337](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/submissions/)|[leetcode-1337.md](src/question/leetcode-1337.md)|[leetcode1337.java](src/main/java/leetcode1337.java)|[leetcode1337Test.java](src/test/java/leetcode1337Test.java)
+[542](https://leetcode.com/problems/01-matrix/)|[leetcode-542.md](src/question/leetcode-542.md)|[leetcode542.java](src/main/java/leetcode542.java)|[leetcode542Test.java](src/test/java/leetcode542Test.java)
