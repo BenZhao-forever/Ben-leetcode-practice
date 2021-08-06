@@ -1,6 +1,6 @@
 public class leetcode122 {
     public static void main(String[] args) {
-
+        readMeSet.addnewline("https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",122);
     }
     public static int maxProfit(int[] prices) {
         int sum = 0;
