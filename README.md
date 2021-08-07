@@ -116,3 +116,4 @@ leetcodenumber|question|answer|test
 [1025](https://leetcode.com/problems/divisor-game/)|[leetcode-1025.md](src/question/leetcode-1025.md)|[leetcode1025.java](src/main/java/leetcode1025.java)|[leetcode1025Test.java](src/test/java/leetcode1025Test.java)
 [1137](https://leetcode.com/problems/n-th-tribonacci-number/submissions/)|[leetcode-1137.md](src/question/leetcode-1137.md)|[leetcode1137.java](src/main/java/leetcode1137.java)|[leetcode1137Test.java](src/test/java/leetcode1137Test.java)
 [392](https://leetcode.com/problems/is-subsequence/submissions/)|[leetcode-392.md](src/question/leetcode-392.md)|[leetcode392.java](src/main/java/leetcode392.java)|[leetcode392Test.java](src/test/java/leetcode392Test.java)
+[118](https://leetcode.com/problems/pascals-triangle/)|[leetcode-118.md](src/question/leetcode-118.md)|[leetcode118.java](src/main/java/leetcode118.java)|[leetcode118Test.java](src/test/java/leetcode118Test.java)
