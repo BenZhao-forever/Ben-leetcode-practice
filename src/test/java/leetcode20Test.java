@@ -16,5 +16,6 @@ class leetcode20Test {
         assertFalse(leetcode20.isValid("(]"));
         assertFalse(leetcode20.isValid("([)]"));
         assertTrue(leetcode20.isValid("{[()]}"));
+        assertFalse(leetcode20.isValid("{"));
     }
 }
