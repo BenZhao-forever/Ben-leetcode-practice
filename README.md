@@ -119,3 +119,5 @@ leetcodenumber|question|answer|test
 [118](https://leetcode.com/problems/pascals-triangle/)|[leetcode-118.md](src/question/leetcode-118.md)|[leetcode118.java](src/main/java/leetcode118.java)|[leetcode118Test.java](src/test/java/leetcode118Test.java)
 [119](https://leetcode.com/problems/pascals-triangle-ii/)|[leetcode-119.md](src/question/leetcode-119.md)|[leetcode119.java](src/main/java/leetcode119.java)|[leetcode119Test.java](src/test/java/leetcode119Test.java)
 [459](https://leetcode.com/problems/repeated-substring-pattern/)|[leetcode-459.md](src/question/leetcode-459.md)|[leetcode459.java](src/main/java/leetcode459.java)|[leetcode459Test.java](src/test/java/leetcode459Test.java)
+[232](https://leetcode.com/problems/implement-queue-using-stacks/)|[leetcode-232.md](src/question/leetcode-232.md)|[leetcode232.java](src/main/java/leetcode232.java)|[leetcode232Test.java](src/test/java/leetcode232Test.java)
+[225](https://leetcode.com/problems/implement-stack-using-queues/)|[leetcode-225.md](src/question/leetcode-225.md)|[leetcode225.java](src/main/java/leetcode225.java)|[leetcode225Test.java](src/test/java/leetcode225Test.java)
