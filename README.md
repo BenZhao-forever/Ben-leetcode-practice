@@ -126,3 +126,4 @@ leetcodenumber|question|answer|test
 [1047](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[leetcode-1047.md](src/question/leetcode-1047.md)|[leetcode1047.java](src/main/java/leetcode1047.java)|[leetcode1047Test.java](src/test/java/leetcode1047Test.java)
 [1003](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/)|[leetcode-1003.md](src/question/leetcode-1003.md)|[leetcode1003.java](src/main/java/leetcode1003.java)|[leetcode1003Test.java](src/test/java/leetcode1003Test.java)
 [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[leetcode-150.md](src/question/leetcode-150.md)|[leetcode150.java](src/main/java/leetcode150.java)|[leetcode150Test.java](src/test/java/leetcode150Test.java)
+[22](https://leetcode.com/problems/generate-parentheses/)|[leetcode-22.md](src/question/leetcode-22.md)|[leetcode22.java](src/main/java/leetcode22.java)|[leetcode22Test.java](src/test/java/leetcode22Test.java)
