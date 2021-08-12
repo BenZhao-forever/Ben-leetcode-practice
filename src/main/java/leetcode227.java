@@ -1,58 +1,54 @@
+import java.util.ArrayDeque;
+import java.util.Deque;
+import java.util.LinkedList;
 import java.util.Stack;
 
 public class leetcode227 {
     public static void main(String[] args) {
-
+        readMeSet.addnewline("https://leetcode.com/problems/basic-calculator-ii/", 227);
     }
-    public static int calculate (String s) {
-        Stack<String> stack = new Stack<>();
-        StringBuilder sb = new StringBuilder();
-        for (int i = 0; i < s.length(); i++) {
-            if (Character.isDigit(s.charAt(i))) {
-                sb.append(s.charAt(i));
-            }else if (s.charAt(i) != ' ') {
-                if (s.charAt(i) == '+' || s.charAt(i) == '-') {
-                    stack.push(sb.toString());
-                    stack.push(Character.toString(s.charAt(i)));
-                    sb = new StringBuilder();
-                }else {
-                    int number1 = Integer.parseInt(sb.toString());
-                    sb = new StringBuilder();
-                    char token = s.charAt(i);
-                     do {
-                        i++;
-                        if (i >= s.length()) {
-                            break;
-                        }
-                        if (Character.isDigit(s.charAt(i))) {
-                            sb.append(s.charAt(i));
-                        }
-                    }while (s.charAt(i) == ' ' || Character.isDigit(s.charAt(i)));
-                    int number2 = Integer.parseInt(sb.toString());
-                    int ans = 0;
-                    if (token == '*') {
-                        ans = number2 * number1;
-                    }else {
-                        ans = number1 / number2;
+    public static int calculate(String s) {
+        LinkedList<Integer> stackInt = new LinkedList<>();
+        LinkedList<Character> stackChar = new LinkedList<>();
+        int index = 0;
+        while (index < s.length()) {
+            if (s.charAt(index) != ' ') {
+                int num = 0;
+                if (s.charAt(index) >= '0' && s.charAt(index) <= '9') {
+                    while (index < s.length() && s.charAt(index) >= '0' && s.charAt(index) <= '9') {
+                        num = num * 10 + s.charAt(index) - '0';
+                        index++;
                     }
-                    sb = new StringBuilder();
-                    stack.push(Integer.toString(ans));
+
+                    if (!stackChar.isEmpty() && (stackChar.peek() == '/' || stackChar.peek() == '*')) {
+                        int last = stackInt.pop();
+                        if (stackChar.peek() == '/') {
+                            num = last / num;
+                        }else {
+                            num = last * num;
+                        }
+                        stackChar.pop();
+                    }
+                    stackInt.push(num);
+                    continue;
+                }else {
+                    stackChar.push(s.charAt(index));
+                    index++;
                 }
-            }
-        }
-        if (sb.length() != 0) {
-            stack.push(sb.toString());
-        }
-        while (stack.size() != 1) {
-            int number1 = Integer.parseInt(stack.pop());
-            if (stack.pop().equals("+")) {
-                int number2 = Integer.parseInt(stack.pop());
-                stack.push(Integer.toString(number1 + number2));
             }else {
-                int number2 = Integer.parseInt(stack.pop());
-                stack.push(Integer.toString(number2 + -number1));
+                index++;
             }
         }
-        return Integer.parseInt(stack.peek());
+        int res = stackInt.pollLast();
+        while (!stackChar.isEmpty()) {
+            char c = stackChar.pollLast();
+            int cur = stackInt.pollLast();
+            if (c == '+') {
+                res += cur;
+            }else {
+                res -= cur;
+            }
+        }
+        return res;
     }
 }
