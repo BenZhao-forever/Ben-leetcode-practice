@@ -132,3 +132,4 @@ leetcodenumber|question|answer|test
 [1696](https://leetcode.com/problems/jump-game-vi/)|[leetcode-1696.md](src/question/leetcode-1696.md)|[leetcode1696.java](src/main/java/leetcode1696.java)|[leetcode1696Test.java](src/test/java/leetcode1696Test.java)
 [239](https://leetcode.com/problems/sliding-window-maximum/)|[leetcode-239.md](src/question/leetcode-239.md)|[leetcode239.java](src/main/java/leetcode239.java)|[leetcode239Test.java](src/test/java/leetcode239Test.java)
 [144](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[leetcode-144.md](src/question/leetcode-144.md)|[leetcode144.java](src/main/java/leetcode144.java)|[leetcode144Test.java](src/test/java/leetcode144Test.java)
+[347](https://leetcode.com/problems/top-k-frequent-elements/)|[leetcode-347.md](src/question/leetcode-347.md)|[leetcode347.java](src/main/java/leetcode347.java)|[leetcode347Test.java](src/test/java/leetcode347Test.java)
