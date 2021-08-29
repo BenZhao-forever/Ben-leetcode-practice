@@ -134,3 +134,4 @@ leetcodenumber|question|answer|test
 [144](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[leetcode-144.md](src/question/leetcode-144.md)|[leetcode144.java](src/main/java/leetcode144.java)|[leetcode144Test.java](src/test/java/leetcode144Test.java)
 [347](https://leetcode.com/problems/top-k-frequent-elements/)|[leetcode-347.md](src/question/leetcode-347.md)|[leetcode347.java](src/main/java/leetcode347.java)|[leetcode347Test.java](src/test/java/leetcode347Test.java)
 [145](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[leetcode-145.md](src/question/leetcode-145.md)|[leetcode145.java](src/main/java/leetcode145.java)|[leetcode145Test.java](src/test/java/leetcode145Test.java)
+[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[leetcode-94.md](src/question/leetcode-94.md)|[leetcode94.java](src/main/java/leetcode94.java)|[leetcode94Test.java](src/test/java/leetcode94Test.java)
