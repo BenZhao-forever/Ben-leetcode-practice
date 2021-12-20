@@ -137,3 +137,4 @@ leetcodenumber|question|answer|test
 [94](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[leetcode-94.md](src/question/leetcode-94.md)|[leetcode94.java](src/main/java/leetcode94.java)|[leetcode94Test.java](src/test/java/leetcode94Test.java)
 [1189](https://leetcode.com/problems/maximum-number-of-balloons/)|[leetcode-1189.md](src/question/leetcode-1189.md)|[leetcode1189.java](src/main/java/leetcode1189.java)|[leetcode1189Test.java](src/test/java/leetcode1189Test.java)
 [594](https://leetcode.com/problems/longest-harmonious-subsequence/)|[leetcode-594.md](src/question/leetcode-594.md)|[leetcode594.java](src/main/java/leetcode594.java)|[leetcode594Test.java](src/test/java/leetcode594Test.java)
+[1200](https://leetcode.com/problems/minimum-absolute-difference/)|[leetcode-1200.md](src/question/leetcode-1200.md)|[leetcode1200.java](src/main/java/leetcode1200.java)|[leetcode1200Test.java](src/test/java/leetcode1200Test.java)
