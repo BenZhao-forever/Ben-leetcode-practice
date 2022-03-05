@@ -14,7 +14,7 @@ Explanation: You can perform the following operations:
 - Delete 2 to earn 2 points. nums = [].
 You earn a total of 6 points.
 ```
-### Example 1:
+### Example 2:
 ``` 
 Input: nums = [2,2,3,3,3,4]
 Output: 9

@@ -26,15 +26,14 @@ public class leetcode559 {
             return 0;
         }
         int depth = 1;
-        Deque<Node> q = new LinkedList<>();
+        Queue<Node> q = new LinkedList<>();
         q.add(root);
-        Node levelend = root.children.get(root.children.size() - 1);
+        int size = 0;
         while (!q.isEmpty()){
-            Node temp = q.pop();
+            Node temp = q.peek();
             q.addAll(temp.children);
-            if (temp == levelend) {
-                depth++;
-                levelend = q.getLast();
+            for (Node n: temp.children) {
+
             }
         }
         return depth;
