@@ -139,3 +139,4 @@ leetcodenumber|question|answer|test
 [594](https://leetcode.com/problems/longest-harmonious-subsequence/)|[leetcode-594.md](src/question/leetcode-594.md)|[leetcode594.java](src/main/java/leetcode594.java)|[leetcode594Test.java](src/test/java/leetcode594Test.java)
 [1200](https://leetcode.com/problems/minimum-absolute-difference/)|[leetcode-1200.md](src/question/leetcode-1200.md)|[leetcode1200.java](src/main/java/leetcode1200.java)|[leetcode1200Test.java](src/test/java/leetcode1200Test.java)
 [506](https://leetcode.com/problems/relative-ranks/)|[leetcode-506.md](src/question/leetcode-506.md)|[leetcode506.java](src/main/java/leetcode506.java)|[leetcode506Test.java](src/test/java/leetcode506Test.java)
+[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[leetcode-1249.md](src/question/leetcode-1249.md)|[leetcode1249.java](src/main/java/leetcode1249.java)|[leetcode1249Test.java](src/test/java/leetcode1249Test.java)
